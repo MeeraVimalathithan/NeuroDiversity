@@ -1,0 +1,7 @@
+{
+  "name": "neuro-diversity",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

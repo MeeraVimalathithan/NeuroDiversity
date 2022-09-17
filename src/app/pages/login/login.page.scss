@@ -1,0 +1,21 @@
+ion-content {
+    --background: var(--ion-color-primary);
+}
+
+ion-card {
+    --background: var(--ion-color-primary-contrast);
+}
+
+ion-card-title {
+    font-size: 20px;
+    color: var(--ion-color-primary);
+}
+
+ion-item {
+    --background: var(--ion-color-primary-contrast);
+    color: black;
+}
+
+ion-label {
+    color: white;
+}
